@@ -111,19 +111,3 @@ By following these steps and incorporating the suggested tools and libraries, yo
 
 ---
 
-## Contributing
-
-If you'd like to contribute to this guide or suggest additional tools and methodologies, please create a pull request or open an issue in this repository.
-
----
-
-## License
-
-This guide is licensed under the MIT License - see the LICENSE file for details.
-
-
-
-### 5.7 Custom ROS Nodes for STM32 Integration
-- **Custom ROS Nodes**: Develop custom nodes for more control over data handling and synchronization between STM32 and ROS.
-
-###
